@@ -17,8 +17,7 @@ public class MainActivity extends AppCompatActivity {
         addMass(6, 500);
         addMass(5, 1000);
         Collections.sort(arrBigInt);
-        System.out.println("венрну как я как было, олух");
-        System.out.println("венрну как я как было, олух");
+        System.out.println("венрну как я как было, баран");
     }
 
     public void addMass(int n, int size){
