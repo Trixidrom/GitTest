@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         addMass(6, 500);
         addMass(5, 1000);
         Collections.sort(arrBigInt);
-        System.out.println("попытка 1234");
+        System.out.println("попытка 12345");
     }
 
     public void addMass(int n, int size){
