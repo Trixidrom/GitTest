@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         addMass(5, 1000);
         Collections.sort(arrBigInt);
         System.out.println("венрну как я как было, олух");
+        System.out.println("венрну как я как было, олух");
     }
 
     public void addMass(int n, int size){
@@ -45,6 +46,10 @@ public class MainActivity extends AppCompatActivity {
                 koef = koef.add(koef2);
             }
         }
+    }
+
+    public void da(){
+        System.out.println("да что ты делашеь, олух!");
     }
 }
 
