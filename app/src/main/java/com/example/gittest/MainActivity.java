@@ -46,5 +46,9 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
+
+    public void da(){
+        System.out.println("да что ты делашеь, олух!");
+    }
 }
 
